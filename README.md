@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there my name is Guilherme!
 
-<!--
-**vanillainanutshell/VanillaInANutshell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="mailto:maurovasconcelos11@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a full-stack developer based on Brazil.
+- I'm searching for a job that can test my skills.
+- In my free time I love to write and draw for my personal projects
+
+## My skillset
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## My stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGiachellin&show_icons=true&?count_private=true?&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGiachellin&layout=compact&theme=tokyonight" />
+  
+ <hr>
+
+<p align="center">
+	<strong>Consider dropping a :star: to show some :heart:</strong>
+</p>
+
