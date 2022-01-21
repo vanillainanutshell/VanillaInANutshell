@@ -16,8 +16,8 @@
 
 ## My stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGiachellin&show_icons=true&?count_private=true?&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGiachellin&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanillainanutshell&show_icons=true&?count_private=true?&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillainanutshell&layout=compact&theme=tokyonight" />
   
  <hr>
 
