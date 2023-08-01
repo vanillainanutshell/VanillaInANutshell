@@ -20,10 +20,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## My stats
+  ![Vanilla's github stats](https://github-readme-stats.vercel.app/api?username=vanillainanutshell)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vanillainanutshell&show_icons=true&?count_private=true?&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillainanutshell&layout=compact&theme=tokyonight" />
-  
  <hr>
 
 <p align="center">
