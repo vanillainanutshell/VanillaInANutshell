@@ -21,6 +21,7 @@
 
 ## My stats
   ![Vanilla's github stats](https://github-readme-stats.vercel.app/api?username=vanillainanutshell)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanillainanutshell)](https://github.com/vanillainanutshell/github-readme-stats)
 
  <hr>
 
